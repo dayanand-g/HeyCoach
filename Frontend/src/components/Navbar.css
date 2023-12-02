@@ -1,0 +1,30 @@
+
+.main-navbar {
+    background-color: #dfd2f8;
+}
+
+.navbar-inside {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-inside h2 {
+    margin-left: 30px;
+}
+
+.navbar-inside div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-inside p {
+    margin: 0 40px;
+}
+
+.navbar-inside img {
+    margin-left: 20px;
+    width: 30px;
+    border-radius: 2px;
+}
